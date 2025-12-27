@@ -11,11 +11,14 @@
       <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld/HelloWorld_Spring/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloWorld/HelloWorld_Spring/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld/HelloWorld_Spring/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloWorld/HelloWorld_Spring/domain/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld/HelloWorld_Spring/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloWorld/HelloWorld_Spring/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -58,53 +62,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.HelloWorld-Spring [:HelloWorld.HelloWorld_Spring.HelloWorldSpringApplication.main()].executor": "Run",
-    "Gradle.HelloWorld-Spring 빌드.executor": "Run",
-    "Gradle.MemberServiceIntegrationTest.executor": "Run",
-    "Gradle.MemberServiceIntegrationTest.join.executor": "Run",
-    "Gradle.MemberServiceIntegrationTest.회원가입.executor": "Run",
-    "JUnit.MemberServiceIntegrationTest.executor": "Run",
-    "JUnit.MemberServiceIntegrationTest.회원가입.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.HelloWorld-Spring [:HelloWorld.HelloWorld_Spring.HelloWorldSpringApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.HelloWorld-Spring 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemberServiceIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemberServiceIntegrationTest.join.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemberServiceIntegrationTest.회원가입.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MemberServiceIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MemberServiceIntegrationTest.회원가입.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="HelloWorld.HelloWorld_Spring.service" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MemberServiceIntegrationTest">
-    <configuration name="MemberServiceIntegrationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;HelloWorld.HelloWorld_Spring.service.MemberServiceIntegrationTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
+  <component name="RunManager" selected="애플리케이션.HelloWorldSpringApplication">
+    <configuration name="HelloWorldSpringApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld.HelloWorld_Spring.HelloWorldSpringApplication" />
+      <module name="HelloWorld-Spring.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HelloWorld.HelloWorld_Spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="MemberServiceIntegrationTest.회원가입" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -187,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.HelloWorldSpringApplication" />
         <item itemvalue="JUnit.MemberServiceIntegrationTest" />
         <item itemvalue="JUnit.MemberServiceIntegrationTest.회원가입" />
         <item itemvalue="Gradle.MemberServiceIntegrationTest.회원가입" />
         <item itemvalue="Gradle.MemberServiceIntegrationTest.join" />
-        <item itemvalue="Gradle.MemberServiceIntegrationTest" />
       </list>
     </recent_temporary>
   </component>
